@@ -59,16 +59,16 @@
     }
 }
 .features-item:first-child::before {
-    background-image: url(../../img/antenna.png);
+    background-image: url(../img/antenna.png);
 }
 .features-item:nth-child(2)::before {
-    background-image: url(../../img/clock.png);
+    background-image: url(../img/clock.png);
 }
 .features-item:nth-child(3)::before {
-    background-image: url(../../img/diagram.png);
+    background-image: url(../img/diagram.png);
 }
 .features-item:last-child::before {
-    background-image: url(../../img/astronaut.png);
+    background-image: url(../img/astronaut.png);
 }
 .features-text {
     line-height: 1.71;
