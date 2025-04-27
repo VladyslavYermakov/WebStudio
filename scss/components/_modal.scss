@@ -45,7 +45,7 @@
 }
 .modal-close:hover,
 .modal-close:focus {
-    background-image: url(../../img/cross-hover.svg);
+    background-image: url(../img/cross-hover.svg);
 }
 .modal-title {
     font-size: 20px;
@@ -81,28 +81,28 @@
     color: var(--modal-border);
 }
 #modal-name {
-    background-image: url(../../img/name-icon.svg);
+    background-image: url(../img/name-icon.svg);
     background-repeat: no-repeat;
     background-position: center left 12px;
 }
 #modal-tel {
-    background-image: url(../../img/phone-icon.svg);
+    background-image: url(../img/phone-icon.svg);
     background-repeat: no-repeat;
     background-position: center left 12px;
 }
 #modal-email {
-    background-image: url(../../img/email-icon.svg);
+    background-image: url(../img/email-icon.svg);
     background-repeat: no-repeat;
     background-position: center left 12px;
 }
 #modal-name:focus-visible {
-    background-image: url(../../img/name-icon-hover.svg);
+    background-image: url(../img/name-icon-hover.svg);
 }
 #modal-tel:focus-visible {
-    background-image: url(../../img/phone-icon-hover.svg);
+    background-image: url(../img/phone-icon-hover.svg);
 }
 #modal-email:focus-visible {
-    background-image: url(../../img/email-icon-hover.svg);
+    background-image: url(../img/email-icon-hover.svg);
 }
 .modal-link {
     color: var(--axent);
