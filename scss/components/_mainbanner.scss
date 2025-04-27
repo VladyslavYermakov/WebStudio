@@ -1,23 +1,23 @@
 .mainbanner {
     padding: 118px 0;
-    background-image: url("../../img/background_mobile.png");
+    background-image: url("../img/background_mobile.png");
     @media (min-device-pixel-ratio:2),(min-resolution:192dpi), (min-resolution:2dppx) {
-        background-image: url(../../img/background_mobile@2x.png);
+        background-image: url(../img/background_mobile@2x.png);
     }
     text-align: center;
     color: #fff;
 
     @media (min-width:768px){
-        background-image: url(../../img/background_tablet.png);
+        background-image: url(../img/background_tablet.png);
         @media (min-device-pixel-ratio:2),(min-resolution:192dpi), (min-resolution:2dppx) {
             background-image: url(../../img/background_tablet@2x.png);
         }
     }
 
     @media (min-width:1199px){
-        background-image: url(../../img/background.png);
+        background-image: url(../img/background.png);
         @media (min-device-pixel-ratio:2),(min-resolution:192dpi), (min-resolution:2dppx) {
-            background-image: url(../../img/background@2x.png);
+            background-image: url(../img/background@2x.png);
         }
     }
     background-repeat: no-repeat;
