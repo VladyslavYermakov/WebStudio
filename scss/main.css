@@ -728,7 +728,7 @@ h1, h2, h3, p, ul, li, input, button, img, a, body {
 }
 @media (min-width: 1199px) {
   .mainbanner {
-    background-image: url(../../img/background.png);
+    background-image: url(../img/background.png);
   }
 }
 @media (min-width: 1199px) and (min-device-pixel-ratio: 2), (min-width: 1199px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 1199px) and (min-resolution: 192dpi), (min-width: 1199px) and (min-resolution: 2dppx) {
